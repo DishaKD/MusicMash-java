@@ -33,7 +33,7 @@
     <div class="card text-center bg-transparent border-light">
     <a class="card-block stretched-link text-decoration-none" href="listenerLogin.jsp">
       <div class="card-body text-light">
-        <h5 class="card-title">Listener</h5>        
+        <h5 class="card-title">Listeners</h5>        
       </div>
       <div class="text-center">
         <img src="../../images/signuppage/spage-listen.jpg" class="rounded-circle" alt="" width="300" height="300" style="margin-bottom: 80px;"/>
@@ -45,7 +45,7 @@
     <div class="card text-center bg-transparent border-light text-light">        
     <a class="card-block stretched-link text-decoration-none" href="../IT22581570/artistLogin.jsp">    
       <div class="card-body text-light">
-        <h5 class="card-title">Artist</h5>        
+        <h5 class="card-title">Artists</h5>        
       </div>
       <div class="text-center ">
         <img src="../../images/signuppage/spage-artist.jpg" class="rounded-circle" alt="" width="300" height="300" style="margin-bottom: 80px;"/>
