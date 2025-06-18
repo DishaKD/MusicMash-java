@@ -22,13 +22,6 @@ This project was created to explore full-stack web development using Java EE tec
 - 📊 Admin panel to manage music listings  
 - 💾 Database integration with MySQL
 
-## 🖼️ Screenshots
-
-> *(Add screenshots here)*  
-> Example:  
-> ![Home Page](screenshots/homepage.png)  
-> ![Search Results](screenshots/search.png)
-
 ## 🛠️ How to Run
 
 ### Prerequisites
